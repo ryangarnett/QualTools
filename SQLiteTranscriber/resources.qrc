@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/sqlitetranscriber" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
